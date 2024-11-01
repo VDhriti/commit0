@@ -1,4 +1,7 @@
 ### Updates
+#### Nov 1, 2024:
+Currently, we do not support Ubuntu 24, more information [in this issue](https://github.com/commit-0/commit0/issues/85)
+
 #### Sep 28, 2024:
 If you want to use agent with the OpenAI o1 models, please run these installation commands to update packages ``pip install git+https://github.com/wenting-zhao/aider.git``.
 
